@@ -9,7 +9,7 @@ This project is designed to automate watering for the plant in backyard.I have u
 - 3-6V Mini Micro Submersible Pump
 - 5v Power Supply
 ## Wiring
-[circuit diagram](https://hackster.imgix.net/uploads/attachments/354095/GPIO.jpg?auto=compress%2Cformat&w=740&h=555&fit=max)
+![circuit diagram](https://hackster.imgix.net/uploads/attachments/354095/GPIO.jpg?auto=compress%2Cformat&w=740&h=555&fit=max)
 
 ## Usage
 Once dependencies are installed, just run this to see it in your browser.
