@@ -14,3 +14,10 @@ This project is designed to automate watering for the plant in backyard.I have u
 ## Usage
 Once dependencies are installed, just run this to see it in your browser.
 > sudo python web_plants.py
+
+## Output
+
+![webage](Capture1.PNG)
+
+
+![flask server](Capture4.PNG)
